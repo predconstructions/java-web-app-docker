@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: yathishmn/java-web-application-docker-new:1
+      - image: yathishmn/java-web-application-docker-new
         name: javawebapp
         ports:
         - name: javawebapp
